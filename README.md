@@ -15,7 +15,7 @@ If you don't have `json-server` installed, run `$ npm i -g json-server`.
 
 If you already have it installed, run the server by: `$ json-server --watch db.json`.
 
-## Build a simple, Event-driven, JavaScript DOM-modifying application
+## Build a simple, Event-driven, JavaScript DOM-modifying application 
 
 * Populate page with quotes with a `GET` request to
   `http://localhost:3000/quotes?_embed=likes`. The query string in this URL tells 
